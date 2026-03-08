@@ -14,4 +14,3 @@ Welcome to the documentation pages of Easy!Appointments. Navigate through the av
 
 *This document applies to Easy!Appointments v1.5.1.*
 
-EJEMPLO
